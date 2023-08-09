@@ -1,7 +1,5 @@
 # Foodingo
 Android opensource food delivery/management/entertainment app
-### You can join discord server for collaboration 
-    https://discord.gg/kSN5Ry
 ### Adobe XD link
     https://xd.adobe.com/view/5ed3d3f5-fcab-4992-bba7-225bf9e8f688-0b80/
 ## Images
